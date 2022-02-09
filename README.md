@@ -5,7 +5,7 @@
 Meu nome completo é João Vitor Antunes de Souza, tenho 21 anos e sou residente da cidade de Schroeder/SC.
 
 - 🎓 Cursando Ciência de Dados.
-- 🔭 Atualmente trabalho com Back-end e Front-end.
+- 🔭 Atualmente trabalho com Back-end.
 - 🌱 Estudando typescript e python. 
 - 📪 E-mail para contato: joao.adsouza1@gmail.com 
 
