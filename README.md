@@ -6,7 +6,7 @@ Meu nome completo é João Vitor Antunes de Souza, tenho 21 anos e sou residente
 
 - 🎓 Cursando Engenharia de Software.
 - 🔭 Atualmente trabalho como Full Stack
-- 🌱 Estudando javascript. 
+- 🌱 Estudando Typecsript. 
 - 📪 E-mail para contato: joao.adsouza1@gmail.com 
 
  
