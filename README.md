@@ -1,9 +1,5 @@
 ## Olá 👋 / Hello World!
   
-## Um pouco sobre mim 
-
-Meu nome completo é João Vitor Antunes de Souza, tenho 22 anos e sou residente da cidade de Schroeder/SC.
-
 - 🎓 Cursando Engenharia de Software.
 - 🔭 Atualmente trabalho como Full Stack (NodeJs + React)
 - 🌱 Estudando Typecsript. 
