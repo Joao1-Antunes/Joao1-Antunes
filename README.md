@@ -2,7 +2,7 @@
   
 - 🎓 Cursando Engenharia de Software.
 - 🔭 Atualmente trabalho como Full Stack (NodeJs + React)
-- 🌱 Estudando Typecsript. 
+- 🌱 Estudando Typescript. 
 - 📪 E-mail para contato: joao.adsouza1@gmail.com 
 
  
