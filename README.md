@@ -8,7 +8,7 @@
  
 <div>
   <p> Contato: </p> 
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-antunes-de-souza-35b444231/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href="https://www.linkedin.com/in/joao1-souza/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
 <br>
 <div>
